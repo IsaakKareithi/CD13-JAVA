@@ -12,7 +12,7 @@ public class C6NestedLoop {
         int t = scn.nextInt();
 
         for (int i = 1; i <= t; i++){
-            System.out.println("Enter number " +i+ ": ");
+            System.out.print("Enter number " +i+ ": ");
             int n = scn.nextInt();
 
             int count = 0;
